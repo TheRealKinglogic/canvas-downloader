@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Playwright / session
+state.json
+
+# OS files
+.DS_Store
+Thumbs.db
